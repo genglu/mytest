@@ -13,4 +13,4 @@
 
 <p>for the git remote mytest.git</p>
 
-<p>test ssh key-pair push</p>
+<p>test ssh key-pair push the last time</p>

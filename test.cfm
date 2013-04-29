@@ -12,3 +12,5 @@
 <p><b>Branch Bold</b></p>
 
 <p>for the git remote mytest.git</p>
+
+<p>test ssh key-pair push</p>

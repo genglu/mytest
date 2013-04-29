@@ -10,3 +10,5 @@
 <p>version 3.4</p>
 <p>fixing bug in master</p>
 <p><b>Branch Bold</b></p>
+
+<p>for the git remote mytest.git</p>

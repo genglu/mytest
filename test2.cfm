@@ -5,4 +5,4 @@
 
 <cfwindow name="xx" initshow="true"><p>test</p></cfwindow>
 
-<p>version 2</p>
+<p>version 3</p>

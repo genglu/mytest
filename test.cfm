@@ -1,3 +1,4 @@
+<!--- this is a test --->
 <cfoutput>
 	<p>#CreateODBCDateTime(DateAdd("H", 2, Now()))#</p>
     <p>#DateAdd("H", 2, Now())#</p>
